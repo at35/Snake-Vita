@@ -11,4 +11,6 @@ Down - Down arrow.
 If the snake touches a wall or touches itself then the snake dies and game over.
 
 The interface looks as :
-![Snake mania](https://user-images.githubusercontent.com/59706468/126895283-4c41c0ca-26c9-44cf-b59e-228f2730d3a1.png)
+![image](https://user-images.githubusercontent.com/59706468/126895378-38cbbb16-a411-4d0e-8bb1-f8b9068293b4.png)
+
+
