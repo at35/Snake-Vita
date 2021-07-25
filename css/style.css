@@ -45,8 +45,8 @@
 }
 
 .head{
-    background: linear-gradient(rgb(65, 11, 11), rgb(206, 206, 191));
-    border: 2px solid rgb(34, 4, 34); 
+    background: linear-gradient(rgb(22, 21, 22), rgb(22, 21, 22));
+    border: 2px  solid white;
     transform: scale(1.02);
     border-radius: 17px;
 }
